@@ -1,0 +1,6 @@
+{
+  "name": "Heritage & Community Society",
+  "description": "Official institutional portal featuring society history & archival timeline, executive committee directory, upcoming & past events, and document management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
